@@ -1,0 +1,2 @@
+# Udacitycourse
+AI Course Exercises
